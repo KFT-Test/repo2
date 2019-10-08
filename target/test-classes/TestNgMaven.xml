@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <packages>
+        <package name="learningmaven"/> 
+          </packages>
+        
+  
+  <!-- <parameters>
+  <parameter name="email" value="tester.emp123@gmail.com" />
+  <parameter name="password" value="testeremp123" />
+  </parameters> -->
+  
+  <!-- <classes>
+  <class name = "src/test/java.MavenfirstClass"/>
+  </classes> -->
+  
+  <!-- <groups>
+  <run>
+  <include name="English"/>
+  <include name="Deutsch"/>
+  </run>
+  </groups> -->
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
